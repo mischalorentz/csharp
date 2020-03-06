@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj": {}
+    "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/lista05.csproj": {}
   },
   "projects": {
-    "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj": {
+    "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/lista05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj",
+        "projectUniqueName": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/lista05.csproj",
         "projectName": "lista05",
-        "projectPath": "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj",
+        "projectPath": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/lista05.csproj",
         "packagesPath": "/Users/michelle/.nuget/packages/",
-        "outputPath": "/Users/michelle/Documents/GitHub/csharp2/lista05/obj/",
+        "outputPath": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/michelle/.config/NuGet/NuGet.Config"

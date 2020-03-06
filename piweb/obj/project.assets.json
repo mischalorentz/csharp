@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj",
-      "projectName": "lista05",
-      "projectPath": "/Users/michelle/Documents/GitHub/csharp2/lista05/lista05.csproj",
+      "projectUniqueName": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/projeto01.csproj",
+      "projectName": "projeto01",
+      "projectPath": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/projeto01.csproj",
       "packagesPath": "/Users/michelle/.nuget/packages/",
-      "outputPath": "/Users/michelle/Documents/GitHub/csharp2/lista05/obj/",
+      "outputPath": "/Users/michelle/Documents/GitHub/csharp/csharp/lista05/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/michelle/.config/NuGet/NuGet.Config"
