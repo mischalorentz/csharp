@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autentica_v02", "autentica_v02\autentica_v02.csproj", "{CD59000A-0D1E-436C-89C1-897DB85CA950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD59000A-0D1E-436C-89C1-897DB85CA950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD59000A-0D1E-436C-89C1-897DB85CA950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD59000A-0D1E-436C-89C1-897DB85CA950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD59000A-0D1E-436C-89C1-897DB85CA950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
